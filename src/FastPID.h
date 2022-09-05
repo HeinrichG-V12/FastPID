@@ -1,6 +1,7 @@
 #ifndef FastPID_H
 #define FastPID_H
 
+#define __STDC_LIMIT_MACROS
 #include <stdint.h>
 
 #define INTEG_MAX    (INT32_MAX)
